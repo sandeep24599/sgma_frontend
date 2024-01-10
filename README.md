@@ -17,4 +17,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 # SGMA Backend
 
-Backend to this project can be found in [SGMA-Backend](https://github.com/shashidhar0302/SGMA-backend).
+Backend to this project can be found in [SGMA-Backend]https://github.com/sandeep24599/SGMA-Backend.
